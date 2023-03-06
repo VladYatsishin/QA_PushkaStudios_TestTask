@@ -1,3 +1,4 @@
-Jira Bug Reports link
+Qase Test run public link
 
-https://vladyatsishin.atlassian.net/jira/software/projects/SPGQ/boards/3
+https://app.qase.io/public/report/9427694ab645ec2647e00a5325b3f80b7eabe3cd
+
